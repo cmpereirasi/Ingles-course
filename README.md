@@ -19,5 +19,7 @@ Seção 1, aula 3
 
 ![the](https://github.com/cmpereirasi/Ingles-course/blob/master/assets/bukket_2_the.png?raw=true)
 
-### A Palavra Mais Usada no Inglês 
-Seção 1, aula 6
+### Salas da Casa
+Seção 1, aula 4
+
+![rooms ins a house](https://github.com/cmpereirasi/Ingles-course/blob/master/assets/Rooms%20in%20a%20house.png?raw=true)
